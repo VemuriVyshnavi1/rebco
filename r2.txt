@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is r2.txt in main
+=======
+This is r2.txt in fb
+>>>>>>> 79f88f6 (This is r2.txt in fb)
